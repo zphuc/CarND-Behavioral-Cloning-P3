@@ -151,7 +151,6 @@ I also used images of the side cameras. Herein, their steering angles were adjus
 Here is an example image of the left and right camera:
 
 ![alt text][image4]
-
 ![alt text][image5]
 
 After the collection process, I had 68,652 number of data points (images, steering angles).  
