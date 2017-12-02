@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 [image1]: ./pictures/track1.png "Track1"
 [image2]: ./pictures/track2.png "Track2"
 [image3]: ./pictures/all_center_org.png "Center Image"
-[image4]: ./pictures/all_left_org..png "Left Image"
+[image4]: ./pictures/all_left_org.png "Left Image"
 [image5]: ./pictures/all_right_org.png "Right Image"
 [image6]: ./pictures/pHis.png "Error loss Image"
 
